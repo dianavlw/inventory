@@ -9,7 +9,7 @@ Installing
   - python -m venv venv
 
 2. Activiate Env
- - source env/bin/activate
+ - source venv/bin/activate
  
 3.pip install Django
 
