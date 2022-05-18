@@ -4,13 +4,14 @@ The reason I did not use this app was because I was returning JsonResponse
 and not a HTML file. 
 
 Installing
-
-1. pip install Django
-2. Create Virtual Environment
+ 
+1. Create Virtual Environment
   - python -m venv venv
 
-3. Activiate Env
+2. Activiate Env
  - source env/bin/activate
+ 
+3.pip install Django
 
 4. Pip install psycopg2 (because I used postgresql)
   - Go to DATABASE in settings.py
